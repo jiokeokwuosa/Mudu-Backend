@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MUON Software Engineer Assesment
 Muon Club is a digital platform and exclusive community where outstanding ideas meet capital ... We live in a unique time, where technology instantly connects ..
 
@@ -83,3 +84,6 @@ NODE_ENV=development
 PORT=5000
 ATLAS_URL=mongodb+srv://jiokeokwuosa:jiokeokwuosa@chijiokedb-hepo3.mongodb.net/test?retryWrites=true&w=majority
 SECRET=muonsecret
+=======
+# Mudu-Backend
+>>>>>>> c78472432da4634aff585ac776d5a3a7945d34f7
